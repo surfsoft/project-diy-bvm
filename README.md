@@ -3,7 +3,7 @@
 Arduino code to control a bag valve mask based ventilator.
 Developed on request to support [ebcore](https://www.ebcore.io/) prototype number three.
 
-VIsit https://github.com/surfsoft/project-diy-bvm for up-to-date documentation and code.
+Visit https://github.com/surfsoft/project-diy-bvm for up-to-date documentation and code.
 
 # Licencing
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -161,7 +161,7 @@ A standard Arduino has:
 - Six analogue pins 0-5 (which can also be addressed as digital pins)
 
 Pin assignments are currently as follows:
-- The Adafruit motor shield works over I2C ich has its own dedicated pins
+- The Adafruit motor shield works over I2C which has its own dedicated pins
 - The LCD uses digital pins D2-D5, D11 and D12 
 - The two sets of adjustable parameters use pins D6-D10, D13, and D16-D19 
 - The controls use analogue pins A0 and A1
